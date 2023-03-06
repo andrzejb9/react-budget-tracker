@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-budget-tracker/static/css/main.c2cab247.css",
+    "main.js": "/react-budget-tracker/static/js/main.2fa6c371.js",
+    "index.html": "/react-budget-tracker/index.html",
+    "main.c2cab247.css.map": "/react-budget-tracker/static/css/main.c2cab247.css.map",
+    "main.2fa6c371.js.map": "/react-budget-tracker/static/js/main.2fa6c371.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.2fa6c371.js"
+  ]
+}
